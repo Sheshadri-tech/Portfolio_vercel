@@ -12,3 +12,7 @@ Allow: /
 
 User-agent: *
 Allow: /
+User-agent: *
+Allow: /
+
+Sitemap: https://portfolio-vercel-cyan-nine.vercel.app/sitemap.xml
